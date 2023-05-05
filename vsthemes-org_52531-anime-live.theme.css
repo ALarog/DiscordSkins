@@ -1,0 +1,27 @@
+/**
+ * @name Anime live
+ * @author DeNarmor
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/52531-anime-live.html
+ * @authorLink https://vsthemes.org/user/DeNarmor/
+ * @authorId 125301
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 2,10,10;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.6;
+    --guildchanneltransparency: 0.6;
+    --memberlistransparency: 0.6;
+    --accentcolor: 17,158,238;
+    --background: url("https://vsthemes.org/uploads/posts/2022-07/1658175596_141854-voda-art-devuska-kavajnaya-anime-1920x1080.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
